@@ -50,6 +50,16 @@ Using pip:
 .. code:: bash
 
     $ pip install django-rest-framework-rules
+    
+Then add to INSTALLED_APPS:
+
+.. code:: python
+
+    INSTALLED_APPS = [
+        'rules',
+        'rest_framework_rules',
+        ...
+    ]
 
 Using rest_framework_rules
 ==========================
