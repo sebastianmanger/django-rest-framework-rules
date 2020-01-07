@@ -1,3 +1,16 @@
+⚠️🚨⚡ DEPRECATED ⚡🚨⚠️
+^^^^^^^^^^^^^^^^^^^^^^^
+
+This repository is no longer maintained!
+
+``rules`` now has built-in support for the Django Rest Framework! See: https://github.com/dfunckt/django-rules/issues/56#issuecomment-520226270
+
+Please consider using ``rules`` instead of this package!
+
+
+This repository is going to be DELETED by the end of June 2020.
+
+
 django-rest-framework-rules
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
